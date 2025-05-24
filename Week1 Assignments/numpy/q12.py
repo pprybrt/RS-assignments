@@ -1,0 +1,1 @@
+# Given an image img with dimensions 500×600, use NumPy slicing to extract a 100×100 square region from the center of the image.
