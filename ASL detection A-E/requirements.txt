@@ -1,0 +1,16 @@
+home = C:\Users\Dell\AppData\Local\Programs\Python\Python38
+implementation = CPython
+uv = 0.7.8
+version_info = 3.8.10
+include-system-site-packages = false
+prompt = py
+
+dependencies=[
+              "tensorflow==2.9.1"
+              "mediapipe==0.10.9"
+              "protobuf==3.20.1"
+              "cvzone==1.6.1"
+              "opencv-python==4.11.0.86"
+              "distlib==0.3.8"
+              "filelock==3.14.0"
+              ]
